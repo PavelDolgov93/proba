@@ -2,3 +2,5 @@ print("test2")
 print("test")
 
 Dobavleno v vetke
+
+dobavleno v mastere
